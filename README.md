@@ -2,4 +2,4 @@
 
 Netflix Redesign for the PapaReact Netflix Challenge Day 4
 
-### <a href="https://papareact-day4.vercel.app">LIVE DEMO</a>
+### <a href="https://netflix-redesign.app">LIVE DEMO</a>
