@@ -2,4 +2,4 @@
 
 Netflix Redesign
 
-### <a href="https://netflix-redesign.netlify.app">LIVE DEMO</a>
+### <a href="https://netflix-redesign-main.vercel.app">LIVE DEMO</a>
